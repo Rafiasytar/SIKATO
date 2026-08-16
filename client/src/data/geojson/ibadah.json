@@ -1,0 +1,110 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.528076172,
+          -0.328613281
+        ]
+      },
+      "properties": {
+        "id": 0,
+        "gid": 1,
+        "ibadah": "Surau Baiturrahim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.545775703,
+          -0.332988252
+        ]
+      },
+      "properties": {
+        "id": 0,
+        "gid": 2,
+        "ibadah": "Masjid Nurul Hidayah Tabek Patah"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.509337023,
+          -0.340540395
+        ]
+      },
+      "properties": {
+        "id": 0,
+        "gid": 3,
+        "ibadah": "Surau Nurul Iman"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.536132707,
+          -0.322883674
+        ]
+      },
+      "properties": {
+        "id": 0,
+        "gid": 4,
+        "ibadah": "Musholla As Nur Iman"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.545540212,
+          -0.331859929
+        ]
+      },
+      "properties": {
+        "id": 0,
+        "gid": 5,
+        "ibadah": "Surau Baitussalam Aie Tagonang"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.520943539,
+          -0.336706845
+        ]
+      },
+      "properties": {
+        "id": 0,
+        "gid": 6,
+        "ibadah": "Masjid Baiturrahman Koto Alam"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.525088694,
+          -0.336455277
+        ]
+      },
+      "properties": {
+        "id": 0,
+        "gid": 7,
+        "ibadah": "Surau Al Ikhlas"
+      }
+    }
+  ]
+}

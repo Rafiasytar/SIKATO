@@ -1,0 +1,114 @@
+[
+  {
+    "table": "fasilitas_kesehatan",
+    "name": "Fasilitas Kesehatan",
+    "file": "fasilitas_kesehatan.json",
+    "featureCount": 2,
+    "type": "POINT"
+  },
+  {
+    "table": "ibadah",
+    "name": "Ibadah",
+    "file": "ibadah.json",
+    "featureCount": 7,
+    "type": "POINT"
+  },
+  {
+    "table": "jalan_tabek_patah",
+    "name": "Jalan Tabek Patah",
+    "file": "jalan_tabek_patah.json",
+    "featureCount": 14,
+    "type": "MULTILINESTRING"
+  },
+  {
+    "table": "jalanpropinsitp",
+    "name": "Jalanpropinsitp",
+    "file": "jalanpropinsitp.json",
+    "featureCount": 1,
+    "type": "MULTILINESTRING"
+  },
+  {
+    "table": "jorong",
+    "name": "Jorong",
+    "file": "jorong.json",
+    "featureCount": 4,
+    "type": "MULTIPOLYGON"
+  },
+  {
+    "table": "kecamatan_salimpaung",
+    "name": "Kecamatan Salimpaung",
+    "file": "kecamatan_salimpaung.json",
+    "featureCount": 1,
+    "type": "MULTIPOLYGON"
+  },
+  {
+    "table": "longsor",
+    "name": "Longsor",
+    "file": "longsor.json",
+    "featureCount": 5,
+    "type": "MULTIPOLYGON"
+  },
+  {
+    "table": "longsortpatah",
+    "name": "Longsortpatah",
+    "file": "longsortpatah.json",
+    "featureCount": 5,
+    "type": "MULTIPOLYGON"
+  },
+  {
+    "table": "pariwisata",
+    "name": "Pariwisata",
+    "file": "pariwisata.json",
+    "featureCount": 2,
+    "type": "POINT"
+  },
+  {
+    "table": "pasar_tabek_patah",
+    "name": "Pasar Tabek Patah",
+    "file": "pasar_tabek_patah.json",
+    "featureCount": 1,
+    "type": "POINT"
+  },
+  {
+    "table": "pendidikan",
+    "name": "Pendidikan",
+    "file": "pendidikan.json",
+    "featureCount": 5,
+    "type": "POINT"
+  },
+  {
+    "table": "perkantoran",
+    "name": "Perkantoran",
+    "file": "perkantoran.json",
+    "featureCount": 6,
+    "type": "POINT"
+  },
+  {
+    "table": "peta_tabek_patah_5",
+    "name": "Peta Tabek Patah 5",
+    "file": "peta_tabek_patah_5.json",
+    "featureCount": 1,
+    "type": "MULTIPOLYGON"
+  },
+  {
+    "table": "prtabekpatah",
+    "name": "Prtabekpatah",
+    "file": "prtabekpatah.json",
+    "featureCount": 2,
+    "type": "MULTIPOLYGON"
+  },
+  {
+    "table": "tanah_datar",
+    "name": "Tanah Datar",
+    "file": "tanah_datar.json",
+    "featureCount": 14,
+    "type": "MULTIPOLYGON"
+  },
+  {
+    "table": "titik_kumpul",
+    "name": "Titik Kumpul",
+    "file": "titik_kumpul.json",
+    "featureCount": 8,
+    "type": "POINT"
+  }
+]

@@ -1,0 +1,35 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.50921343,
+          -0.338846362
+        ]
+      },
+      "properties": {
+        "id": 0,
+        "gid": 1,
+        "faskes": "Pustu Jor. Koto Alam"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.536229218,
+          -0.327868132
+        ]
+      },
+      "properties": {
+        "id": 0,
+        "gid": 2,
+        "faskes": "Pustu Jor. Tabek Patah"
+      }
+    }
+  ]
+}

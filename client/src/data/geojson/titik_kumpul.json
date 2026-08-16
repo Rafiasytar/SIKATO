@@ -1,0 +1,125 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.540521312,
+          -0.331108744
+        ]
+      },
+      "properties": {
+        "id": 0,
+        "gid": 1,
+        "kettikum": "Polsek Salimpaung"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.536997805,
+          -0.329230656
+        ]
+      },
+      "properties": {
+        "id": 0,
+        "gid": 2,
+        "kettikum": "Kantor Wali Nagari Tabek Patah"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.534842018,
+          -0.324892285
+        ]
+      },
+      "properties": {
+        "id": 0,
+        "gid": 3,
+        "kettikum": "Kantor Camat Salimpaung"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.509337023,
+          -0.340540395
+        ]
+      },
+      "properties": {
+        "id": 0,
+        "gid": 4,
+        "kettikum": "Musholla Nurul Iman"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.513949336,
+          -0.337232014
+        ]
+      },
+      "properties": {
+        "id": 0,
+        "gid": 5,
+        "kettikum": "SDN 18  Tabek Patah"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.520874023,
+          -0.336425781
+        ]
+      },
+      "properties": {
+        "id": 0,
+        "gid": 6,
+        "kettikum": "Masjid Baitulrahman Koto Alam"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.536852008,
+          -0.322375315
+        ]
+      },
+      "properties": {
+        "id": 0,
+        "gid": 7,
+        "kettikum": "Lapangan Bola Kaki"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.526705434,
+          -0.32836883
+        ]
+      },
+      "properties": {
+        "id": 0,
+        "gid": 8,
+        "kettikum": "SDN 09 Koto Tabek Patah"
+      }
+    }
+  ]
+}

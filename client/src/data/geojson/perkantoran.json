@@ -1,0 +1,95 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.536871112,
+          -0.329173615
+        ]
+      },
+      "properties": {
+        "id": 0,
+        "gid": 1,
+        "kantor": "Kantor Wali Nagari Tabek Patah"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.540437497,
+          -0.331122557
+        ]
+      },
+      "properties": {
+        "id": 0,
+        "gid": 2,
+        "kantor": "Kantor Polsek Salimpaung"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.53500295,
+          -0.325323266
+        ]
+      },
+      "properties": {
+        "id": 0,
+        "gid": 3,
+        "kantor": "Kantor Camat Salimpaung"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.535187217,
+          -0.325569808
+        ]
+      },
+      "properties": {
+        "id": 0,
+        "gid": 4,
+        "kantor": "Pos Damkar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.536170735,
+          -0.32264481
+        ]
+      },
+      "properties": {
+        "id": 0,
+        "gid": 5,
+        "kantor": "Koramil"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.527894979,
+          -0.328467788
+        ]
+      },
+      "properties": {
+        "id": 0,
+        "gid": 6,
+        "kantor": "KUA Kecamatan Salimpaung"
+      }
+    }
+  ]
+}

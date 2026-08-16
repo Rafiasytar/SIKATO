@@ -1,0 +1,33 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.536500032,
+          -0.317441183
+        ]
+      },
+      "properties": {
+        "gid": 1,
+        "sekolah": "Panorama Tabek Patah"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.506286621,
+          -0.343688965
+        ]
+      },
+      "properties": {
+        "gid": 2,
+        "sekolah": "Panorama Batudindiang"
+      }
+    }
+  ]
+}

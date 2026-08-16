@@ -1,0 +1,80 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.534838799,
+          -0.324898236
+        ]
+      },
+      "properties": {
+        "id": 0,
+        "gid": 1,
+        "sekolah": "SDN 01 Tabek Patah"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.527099609,
+          -0.329223633
+        ]
+      },
+      "properties": {
+        "id": 0,
+        "gid": 2,
+        "sekolah": "SDN 09 Koto Tabek Patah"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.533874512,
+          -0.320373535
+        ]
+      },
+      "properties": {
+        "id": 0,
+        "gid": 3,
+        "sekolah": "SMAN 1 Salimpaung"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.513916016,
+          -0.337097168
+        ]
+      },
+      "properties": {
+        "id": 0,
+        "gid": 4,
+        "sekolah": "SDN 18 Tabek Patah"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.535476821,
+          -0.328208196
+        ]
+      },
+      "properties": {
+        "id": 0,
+        "gid": 5,
+        "sekolah": "SDN 12 Tabek Patah"
+      }
+    }
+  ]
+}
